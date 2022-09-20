@@ -28,7 +28,7 @@
   color: var(--cor-2);
 }
 
-.botao-secundario:hover {
+.botao.secundario:hover {
   background: var(--cor-9);
 }
 
